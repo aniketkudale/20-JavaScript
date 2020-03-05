@@ -2,5 +2,5 @@
 
 No Framework Projects
 
-License:
+License
 MIT
