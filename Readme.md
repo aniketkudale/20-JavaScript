@@ -2,5 +2,7 @@
 
 No Framework Projects (Used only HTML, CSS & JavaScript)
 
-1. Form
-2. Theatre Movie Booking
+|  #  |            Project             |
+| :-: | :----------------------------: |
+| 01  |       Form Validator      | 
+| 02  |     Movie Seat Booking    | 
