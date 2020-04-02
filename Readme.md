@@ -8,5 +8,5 @@ No Framework Projects (Used only HTML, CSS & JavaScript)
 | 02  |     Movie Seat Booking    | 
 
 
-## License
+## License / Copyright
 MIT © 2020 Aniket Kudale
